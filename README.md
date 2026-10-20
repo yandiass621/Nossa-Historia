@@ -8,8 +8,7 @@ O objetivo do projeto é proporcionar uma experiência simples e intuitiva para 
 
 🚀 Demonstração
 
-🔗 Acesse a versão hospedada do projeto:
-👉 https://yandiass621.github.io/Nossa-Historia
+🔗 Acesse a versão hospedada do projeto: https://yandiass621.github.io/Nossa-Historia
 
 🧩 Funcionalidades
 
